@@ -57,6 +57,6 @@ Contributions to the project are welcome! If you find any bugs or have ideas for
 
 ## Acknowledgments
 
-I would like to express my gratitude to the developers of scikit-learn and other open-source libraries used in this project, as well as the community for their valuable contributions to the field of machine learning and also 'kaggle' for providing the dataset
+I would like to express my gratitude to the developers of scikit-learn and other open-source libraries used in this project, as well as the community for their valuable contributions to the field of machine learning and also 'kaggle' for providing the dataset.
 
 Happy predicting!
